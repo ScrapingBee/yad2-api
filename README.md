@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="yad2-api" />
+    <img src="https://github.com/user-attachments/assets/00f4e443-abd3-48b0-a0e5-bb7a8dc566c2" alt="yad2-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/yad2-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/yad2-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/yad2-api.svg)](LICENSE)
